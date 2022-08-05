@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayOver
-- 🌱 I’m currently learning and interested in blockchain related projects
+- 🌱 I’m currently learning and interested in blockchain and web3 related projects
 - Discord: rayover#0841
 
 <!---
